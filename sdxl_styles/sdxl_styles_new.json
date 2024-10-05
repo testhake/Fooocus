@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Fooocus RealDream Human",
+        "negative_prompt": "amputee, deformed body, long neck, extra fingers, bad body proportions, mutated hands, mutilated, mutation, ugly, fused fingers, malformed limbs, extra heads, disfigured"
+    },
+    {
+        "name": "SmoothMix General 1",
+        "prompt": "beautiful aesthetic, very intricate, high quality details, "
+    },
+    {
+        "name": "SmoothMix General 2",
+        "prompt": "vibrant, highly detailed, award-winning, professional, "
+    },
+    {
+        "name": "SmoothMix Realism",
+        "prompt": "ultra realistic, masterpiece, high detailed skin, "
+    },
+    {
+        "name": "SmoothMix Anime",
+        "prompt": "anime artwork, anime style, studio anime, "
+    }
+]
