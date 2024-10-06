@@ -30,7 +30,9 @@ for x in ['sdxl_styles_fooocus.json',
           'sdxl_styles_mre.json',
           'sdxl_styles_twri.json',
           'sdxl_styles_diva.json',
-          'sdxl_styles_marc_k3nt3l.json']:
+          'sdxl_styles_marc_k3nt3l.json',
+          'sdxl_styles_new.json'
+        ]:
     if x in styles_files:
         styles_files.remove(x)
         styles_files.append(x)
