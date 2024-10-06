@@ -23,5 +23,25 @@
         "name": "CyberRealistic",
         "prompt": "score_9, score_8_up, score_7_up, {prompt}",
         "negative_prompt": "score_6, score_5, score_4, source_pony, source_anime, source_furry, source_cartoon, worst quality, low quality"
+    },
+    {
+        "name": "LORA: ExpressiveH | Clip skip: 2 | Strength : 1",
+        "prompt": "Expressiveh,",
+    },
+    {
+        "name": "LORA: Styles | Oil Painting | Strength : 0.7",
+        "prompt": "traditional media, realistic,",
+    },
+    {
+        "name": "LORA: Styles | Photo | Strength : 0.7",
+        "prompt": "RAW, photo, realistic,",
+    },
+    {
+        "name": "LORA: Styles | Digital Art | Strength : 0.7",
+        "prompt": "digital art, realistic,",
+    },
+    {
+        "name": "LORA: Some Styles | KXF 0.2",
+        "prompt": "KXF,",
     }
 ]
