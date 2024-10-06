@@ -2,7 +2,7 @@
     "default_model": "ponyRealism_v22MainVAE.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
-    "default_vae": "ponyDiffusionV6XL_vae.safetensors",
+    "default_vae": "ponyRealism_v22MainVAE.safetensors",
     "default_loras": [
         [
             true,
@@ -47,7 +47,5 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
-    "vae_downloads": {
-        "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
-    }
+    "vae_downloads": {}
 }
