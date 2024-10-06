@@ -5,19 +5,19 @@
     },
     {
         "name": "SmoothMix General 1",
-        "prompt": "beautiful aesthetic, very intricate, high quality details, "
+        "prompt": "beautiful aesthetic, very intricate, high quality details"
     },
     {
         "name": "SmoothMix General 2",
-        "prompt": "vibrant, highly detailed, award-winning, professional, "
+        "prompt": "vibrant, highly detailed, award-winning, professional"
     },
     {
         "name": "SmoothMix Realism",
-        "prompt": "ultra realistic, masterpiece, high detailed skin, "
+        "prompt": "ultra realistic, masterpiece, high detailed skin"
     },
     {
         "name": "SmoothMix Anime",
-        "prompt": "anime artwork, anime style, studio anime, "
+        "prompt": "anime artwork, anime style, studio anime"
     },
     {
         "name": "CyberRealistic",
@@ -26,26 +26,26 @@
     },
     {
         "name": "LORA: ExpressiveH | Clip skip: 2 | Strength : 1",
-        "prompt": "Expressiveh,"
+        "prompt": "Expressiveh"
     },
     {
         "name": "LORA: Styles | Oil Painting | Strength : 0.7",
-        "prompt": "traditional media, realistic,"
+        "prompt": "traditional media, realistic"
     },
     {
         "name": "LORA: Styles | Photo | Strength : 0.7",
-        "prompt": "RAW, photo, realistic,"
+        "prompt": "RAW, photo, realistic"
     },
     {
         "name": "LORA: Styles | Digital Art | Strength : 0.7",
-        "prompt": "digital art, realistic,"
+        "prompt": "digital art, realistic"
     },
     {
         "name": "LORA: Some Styles | KXF 0.2",
-        "prompt": "KXF,"
+        "prompt": "KXF"
     },
     {
         "name": "LORA: Sakimichan Style | Clip Skip : 0.2",
-        "prompt": "Sakimichan,"
+        "prompt": "Sakimichan"
     }
 ]
