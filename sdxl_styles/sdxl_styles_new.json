@@ -47,5 +47,13 @@
     {
         "name": "LORA: Sakimichan Style | Clip Skip : 0.2",
         "prompt": "Sakimichan"
+    },
+    {
+        "name": "LORA: Vixon's Pony Styles | Clip Skip : 0.2",
+        "prompt": "g0thicPXL, glowing, neon,"
+    },
+    {
+        "name": "LORA: Disney | Instructions : 0.6-0.7 close-up character | 0.3-0.5 full-body | Use character names",
+        "prompt": "g0thicPXL, glowing, neon,"
     }
 ]
