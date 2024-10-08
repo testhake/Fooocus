@@ -1,26 +1,26 @@
 [
     {
-        "name": "Fooocus RealDream Human",
+        "name": "Checkpoint: RealDream Human",
         "negative_prompt": "amputee, deformed body, long neck, extra fingers, bad body proportions, mutated hands, mutilated, mutation, ugly, fused fingers, malformed limbs, extra heads, disfigured"
     },
     {
-        "name": "SmoothMix General 1",
+        "name": "Checkpoint: SmoothMix General 1",
         "prompt": "beautiful aesthetic, very intricate, high quality details"
     },
     {
-        "name": "SmoothMix General 2",
+        "name": "Checkpoint: SmoothMix General 2",
         "prompt": "vibrant, highly detailed, award-winning, professional"
     },
     {
-        "name": "SmoothMix Realism",
+        "name": "Checkpoint: SmoothMix Realism",
         "prompt": "ultra realistic, masterpiece, high detailed skin"
     },
     {
-        "name": "SmoothMix Anime",
+        "name": "Checkpoint: SmoothMix Anime",
         "prompt": "anime artwork, anime style, studio anime"
     },
     {
-        "name": "CyberRealistic",
+        "name": "Checkpoint: CyberRealistic",
         "prompt": "score_9, score_8_up, score_7_up, {prompt}",
         "negative_prompt": "score_6, score_5, score_4, source_pony, source_anime, source_furry, source_cartoon, worst quality, low quality"
     },
