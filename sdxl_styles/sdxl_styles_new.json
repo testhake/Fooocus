@@ -1,74 +1,70 @@
 [
     {
-        "name": "Test: Soft Style | FOOCUS PONY + soft shading only",
+        "name": "(MAIN) FOOOCUS PONY + soft shading",
         "prompt": "score_9, score_8_up, score_7_up, (soft shading), {prompt}",
         "negative_prompt": "score_6, score_5, score_4"
     },
     {
-        "name": "Test: Soft Style | FOOCUS PONY + Realistic Painting",
+        "name": "(MAIN) FOOOCUS PONY + Realistic Painting",
         "prompt": "score_9, score_8_up, score_7_up, (soft shading), {prompt}, volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style",
         "negative_prompt": "score_6, score_5, score_4"
     },
     {
-        "name": "Test: FOOCUS PONY + Realistic",
+        "name": "(MAIN) FOOOCUS PONY + Photorealistic",
         "prompt": "score_9, score_8_up, score_7_up, (photorealistic, realism, realistic), {prompt}, volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style",
         "negative_prompt": "score_6, score_5, score_4"
     },
     {
-        "name": "Checkpoint: RealDream Human",
+        "name": "(CHECKPOINT) RealDream Human (negative)",
         "negative_prompt": "amputee, deformed body, long neck, extra fingers, bad body proportions, mutated hands, mutilated, mutation, ugly, fused fingers, malformed limbs, extra heads, disfigured"
     },
     {
-        "name": "Checkpoint: SmoothMix General 1",
+        "name": "(CHECKPOINT) SmoothMix General 1",
         "prompt": "beautiful aesthetic, very intricate, high quality details"
     },
     {
-        "name": "Checkpoint: SmoothMix General 2",
+        "name": "(CHECKPOINT) SmoothMix General 2",
         "prompt": "vibrant, highly detailed, award-winning, professional"
     },
     {
-        "name": "Checkpoint: SmoothMix Realism",
+        "name": "(CHECKPOINT) SmoothMix Realism",
         "prompt": "ultra realistic, masterpiece, high detailed skin"
     },
     {
-        "name": "Checkpoint: SmoothMix Anime",
+        "name": "(CHECKPOINT) SmoothMix Anime",
         "prompt": "anime artwork, anime style, studio anime"
     },
     {
-        "name": "Checkpoint: CyberRealistic",
+        "name": "(CHECKPOINT) CyberRealistic",
         "prompt": "score_9, score_8_up, score_7_up, {prompt}",
         "negative_prompt": "score_6, score_5, score_4, source_pony, source_anime, source_furry, source_cartoon, worst quality, low quality"
     },
     {
-        "name": "LORA: ExpressiveH | Clip skip: 2 | Strength : 1",
+        "name": "(LORA) ExpressiveH",
         "prompt": "Expressiveh"
     },
     {
-        "name": "LORA: Styles -> Oil Painting | Strength : 0.7",
+        "name": "(LORA) Styles -> Oil Painting",
         "prompt": "traditional media, realistic"
     },
     {
-        "name": "LORA: Styles -> Photo | Strength : 0.7",
+        "name": "(LORA) Styles -> Photo",
         "prompt": "RAW, photo, realistic"
     },
     {
-        "name": "LORA: Styles -> Digital Art | Strength : 0.7",
+        "name": "(LORA) Styles -> Digital Art",
         "prompt": "digital art, realistic"
     },
     {
-        "name": "LORA: Some Styles -> NYK 0.1",
+        "name": "(LORA) Some Styles -> NYK 0.1",
         "prompt": "nyk"
     },
     {
-        "name": "LORA: Sakimichan Style | Clip Skip : 0.2",
+        "name": "(LORA) Sakimichan Style",
         "prompt": "Sakimichan"
     },
     {
-        "name": "LORA: Vixon's Pony Styles -> gothic neon | Clip Skip : 0.2",
+        "name": "(LORA) Vixon's Pony Styles -> gothic neon",
         "prompt": "g0thicPXL"
-    },
-    {
-        "name": "LORA: Disney | Instructions : 0.6-0.7 close-up character | 0.3-0.5 full-body | Use character names",
-        "prompt": ""
     }
 ]
