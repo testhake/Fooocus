@@ -1,18 +1,25 @@
 [
     {
-        "name": "@(MAIN) FOOOCUS PONY + soft shading",
-        "prompt": "score_9, score_8_up, score_7_up, (soft shading), {prompt}",
+        "name": "@(MAIN) FOOOCUS PONY",
+        "prompt": "score_9, score_8_up, score_7_up",
         "negative_prompt": "score_6, score_5, score_4"
     },
     {
-        "name": "@(MAIN) FOOOCUS PONY + Realistic Painting",
-        "prompt": "score_9, score_8_up, score_7_up, (soft shading), {prompt}, volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style",
+        "name": "@(MAIN) FOOOCUS PONY ()",
+        "prompt": "(score_9, score_8_up, score_7_up)",
         "negative_prompt": "score_6, score_5, score_4"
     },
     {
-        "name": "@(MAIN) FOOOCUS PONY + Photorealistic",
-        "prompt": "score_9, score_8_up, score_7_up, (photorealistic, realism, realistic), {prompt}, volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style",
-        "negative_prompt": "score_6, score_5, score_4"
+        "name": "@(MAIN) Soft shading",
+        "prompt": "(soft shading)"
+    },
+    {
+        "name": "@(MAIN) Realistic Painting",
+        "prompt": "(soft shading), volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style"
+    },
+    {
+        "name": "@(MAIN) Photorealistic",
+        "prompt": "(photorealistic, realism, realistic), volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style"
     },
     {
         "name": "@(PLUS) Movement",
@@ -21,6 +28,10 @@
     {
         "name": "@(PLUS) Negative",
         "negative_prompt": "worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), weights, extra hands, extra dicks, transgender"
+    },
+    {
+        "name": "@(PLUS) Negative+",
+        "negative_prompt": "(deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, poorly drawn, bad anatomy, wrong anatomy, extra limbs, missing limb, floating limbs, missing fingers, elongated hands, disconnected limbs, mutation, mutated, ugly, disgusting, blurry, blurry eyes"
     },
     {
         "name": "@(CHECKPOINT) RealDream Human (negative)",
@@ -44,7 +55,7 @@
     },
     {
         "name": "@(CHECKPOINT) CyberRealistic",
-        "prompt": "score_9, score_8_up, score_7_up, {prompt}",
+        "prompt": "score_9, score_8_up, score_7_up",
         "negative_prompt": "score_6, score_5, score_4, source_pony, source_anime, source_furry, source_cartoon, worst quality, low quality"
     },
     {
