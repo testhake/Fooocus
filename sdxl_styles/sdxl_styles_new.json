@@ -1,5 +1,13 @@
 [
     {
+        "name": "Test: Soft Style | Realistic Painting",
+        "prompt": "(soft shading), {prompt}, volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style"
+    },
+    {
+        "name": "Test: Realistic",
+        "prompt": "(photorealistic, realism, soft shading, crisp vibrant detailed soft), {prompt}, volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style"
+    },
+    {
         "name": "Checkpoint: RealDream Human",
         "negative_prompt": "amputee, deformed body, long neck, extra fingers, bad body proportions, mutated hands, mutilated, mutation, ugly, fused fingers, malformed limbs, extra heads, disfigured"
     },
@@ -29,28 +37,28 @@
         "prompt": "Expressiveh"
     },
     {
-        "name": "LORA: Styles | Oil Painting | Strength : 0.7",
+        "name": "LORA: Styles -> Oil Painting | Strength : 0.7",
         "prompt": "traditional media, realistic"
     },
     {
-        "name": "LORA: Styles | Photo | Strength : 0.7",
+        "name": "LORA: Styles -> Photo | Strength : 0.7",
         "prompt": "RAW, photo, realistic"
     },
     {
-        "name": "LORA: Styles | Digital Art | Strength : 0.7",
+        "name": "LORA: Styles -> Digital Art | Strength : 0.7",
         "prompt": "digital art, realistic"
     },
     {
-        "name": "LORA: Some Styles | KXF 0.2",
-        "prompt": "KXF"
+        "name": "LORA: Some Styles -> NYK 0.1",
+        "prompt": "nyk"
     },
     {
         "name": "LORA: Sakimichan Style | Clip Skip : 0.2",
         "prompt": "Sakimichan"
     },
     {
-        "name": "LORA: Vixon's Pony Styles | Clip Skip : 0.2",
-        "prompt": "g0thicPXL, glowing, neon,"
+        "name": "LORA: Vixon's Pony Styles -> gothic neon | Clip Skip : 0.2",
+        "prompt": "g0thicPXL"
     },
     {
         "name": "LORA: Disney | Instructions : 0.6-0.7 close-up character | 0.3-0.5 full-body | Use character names",
