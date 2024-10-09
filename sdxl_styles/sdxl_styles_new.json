@@ -1,7 +1,12 @@
 [
     {
+        "name": "Test: Soft Style | FOOCUS PONY + soft shading only",
+        "prompt": "score_9, score_8_up, score_7_up, (soft shading), {prompt}",
+        "negative_prompt": "score_6, score_5, score_4"
+    },
+    {
         "name": "Test: Soft Style | FOOCUS PONY + Realistic Painting",
-        "prompt": "score_9, score_8_up, score_7_up, {prompt}, volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style",
+        "prompt": "score_9, score_8_up, score_7_up, (soft shading), {prompt}, volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style",
         "negative_prompt": "score_6, score_5, score_4"
     },
     {
