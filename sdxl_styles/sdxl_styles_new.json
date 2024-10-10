@@ -11,7 +11,7 @@
     },
     {
         "name": "@(MAIN) FOOOCUS PONY No negatives",
-        "prompt": "(score_9, score_8_up, score_7_up)"
+        "prompt": "score_9, score_8_up, score_7_up"
     },
     {
         "name": "@(MAIN) Soft shading",
