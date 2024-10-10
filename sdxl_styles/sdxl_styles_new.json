@@ -17,6 +17,10 @@
         "prompt": "(photorealistic, realism, realistic)"
     },
     {
+        "name": "@(PLUS) Realistic Painting",
+        "prompt": "realistic, painting, soft shading"
+    },
+    {
         "name": "@(PLUS) Lighting + Realistic Painting Style",
         "prompt": "volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style"
     },
