@@ -1,12 +1,12 @@
 [
     {
         "name": "@(MAIN) FOOOCUS PONY",
-        "prompt": "score_9, score_8_up, score_7_up",
+        "prompt": "score_9, score_8_up, score_7_up, {prompt}",
         "negative_prompt": "score_6, score_5, score_4"
     },
     {
         "name": "@(MAIN) FOOOCUS PONY ()",
-        "prompt": "(score_9, score_8_up, score_7_up)",
+        "prompt": "(score_9, score_8_up, score_7_up), {prompt}",
         "negative_prompt": "score_6, score_5, score_4"
     },
     {
@@ -14,12 +14,12 @@
         "prompt": "(soft shading)"
     },
     {
-        "name": "@(MAIN) Realistic Painting",
-        "prompt": "(soft shading), volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style"
+        "name": "@(MAIN) FOOOCUS PONY + Realistic Painting",
+        "prompt": "score_9, score_8_up, score_7_up, (soft shading), {prompt}, volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style"
     },
     {
-        "name": "@(MAIN) Photorealistic",
-        "prompt": "(photorealistic, realism, realistic), volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style"
+        "name": "@(MAIN) FOOOCUS PONY + Photorealistic",
+        "prompt": "score_9, score_8_up, score_7_up, (photorealistic, realism, realistic), {prompt}, volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style"
     },
     {
         "name": "@(PLUS) Movement",
@@ -39,7 +39,7 @@
     },
     {
         "name": "@(CHECKPOINT) PONY AutismMix",
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, BREAK"
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, BREAK {prompt}"
     },
     {
         "name": "@(CHECKPOINT) RealDream Human (negative)",
