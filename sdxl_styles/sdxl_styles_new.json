@@ -1,11 +1,15 @@
 [
     {
-        "name": "@(MAIN) FOOOCUS PONY",
+        "name": "@(MAIN) PONY Default With Negatives",
         "prompt": "score_9, score_8_up, score_7_up, {prompt}",
         "negative_prompt": "score_6, score_5, score_4"
     },
     {
-        "name": "@(MAIN) FOOOCUS PONY score_4_up",
+        "name": "@(MAIN) PONY Default No Negatives",
+        "prompt": "score_9, score_8_up, score_7_up, {prompt}"
+    },
+    {
+        "name": "@(MAIN) PONY score_4_up No Negatives",
         "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, {prompt}"
     },
     {
