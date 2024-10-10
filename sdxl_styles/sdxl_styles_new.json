@@ -10,10 +10,6 @@
         "negative_prompt": "score_6, score_5, score_4"
     },
     {
-        "name": "@(MAIN) FOOOCUS PONY No negatives",
-        "prompt": "score_9, score_8_up, score_7_up"
-    },
-    {
         "name": "@(MAIN) Soft shading",
         "prompt": "(soft shading)"
     },
@@ -40,6 +36,10 @@
     {
         "name": "@(PLUS) Negative++",
         "negative_prompt": "(merging:1.2), merged bodies, merging bodies, artist signature, signature, text, black and white, sepia, poorly drawn face, low quality, extra legs, extra limbs, bad limbs, bad hands, bad feet, text, extra limbs, multiple anus, vertical mirroring, symmetry, mirroring, double body, Bad anatomy, Deformed, nonsense, bad quality, Ugly, unproportional, bad photo, worst quality, bad composition, bad lighting, bad colors, small eyes, low quality, bad art, poorly drawn, deformed, bad 3D render, boring, lifeless, deformed, ugly, low resolution, (worst quality, low quality, blurry:1.3)"
+    },
+    {
+        "name": "@(CHECKPOINT) PONY AutismMix",
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, BREAK"
     },
     {
         "name": "@(CHECKPOINT) RealDream Human (negative)",
