@@ -5,12 +5,12 @@
     "default_vae": "sdxl_vae.safetensors",
     "default_loras": [
         [
-            false,
+            true,
             "dsney.safetensors",
             1.0
         ],
         [
-            true,
+            false,
             "None",
             0.25
         ],
