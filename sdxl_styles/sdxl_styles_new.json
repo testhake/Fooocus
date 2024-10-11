@@ -49,7 +49,7 @@
     },
     {
         "name": "@(PLUS) Source 3D",
-        "prompt": "@source_3d"
+        "prompt": "@(3d)"
     },
     {
         "name": "@(PLUS) Source Cartoon",
