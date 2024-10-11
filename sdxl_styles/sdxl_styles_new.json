@@ -1,16 +1,23 @@
 [
     {
-        "name": "@(MAIN) PONY Default With Negatives",
-        "prompt": "score_9, score_8_up, score_7_up, {prompt}",
-        "negative_prompt": "score_6, score_5, score_4"
+        "name": "@(MAIN) PONY Negatives",
+        "negative_prompt": "score_4, score_5, score_6"
     },
     {
-        "name": "@(MAIN) PONY Default No Negatives",
+        "name": "@(MAIN) PONY Default",
         "prompt": "score_9, score_8_up, score_7_up, {prompt}"
     },
     {
-        "name": "@(MAIN) PONY score_4_up No Negatives",
+        "name": "@(MAIN) PONY score_4_up",
         "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, {prompt}"
+    },
+    {
+        "name": "@(PLUS) MatF+YunM",
+        "prompt": "mature_female, young male, age_difference, 1boy, 1girl"
+    },
+    {
+        "name": "@(PLUS) MatM+YunF",
+        "prompt": "mature_male, young female, age_difference, 1boy, 1girl"
     },
     {
         "name": "@(PLUS) Soft Shading",
@@ -27,6 +34,10 @@
     {
         "name": "@(PLUS) Lighting + Realistic Painting Style",
         "prompt": "volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style"
+    },
+    {
+        "name": "@(PLUS) Source 3D",
+        "prompt": "source_3d"
     },
     {
         "name": "@(PLUS) Source Cartoon",
