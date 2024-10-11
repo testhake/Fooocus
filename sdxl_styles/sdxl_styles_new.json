@@ -5,31 +5,31 @@
     },
     {
         "name": "@(MAIN) PONY Default",
-        "prompt": "score_9, score_8_up, score_7_up, {prompt}"
+        "prompt": "@score_9, score_8_up, score_7_up"
     },
     {
         "name": "@(MAIN) PONY score_4_up",
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, {prompt}"
+        "prompt": "@score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up"
     },
     {
         "name": "@(PLUS) MatF+YunM",
-        "prompt": "mature_female, young male, age_difference, 1boy, 1girl"
+        "prompt": "@mature_female, young male, age_difference, 1boy, 1girl"
     },
     {
         "name": "@(PLUS) MatM+YunF",
-        "prompt": "mature_male, young female, age_difference, 1boy, 1girl"
+        "prompt": "@mature_male, young female, age_difference, 1boy, 1girl"
     },
     {
         "name": "@(PLUS) Soft Shading",
-        "prompt": "(soft shading)"
+        "prompt": "@(soft shading)"
     },
     {
         "name": "@(PLUS) Photorealistic",
-        "prompt": "(photorealistic, realism, realistic)"
+        "prompt": "@(photorealistic, realism, realistic)"
     },
     {
         "name": "@(PLUS) Realistic Painting",
-        "prompt": "realistic, painting, soft shading"
+        "prompt": "@realistic, painting, soft shading"
     },
     {
         "name": "@(PLUS) Lighting + Realistic Painting Style",
@@ -37,15 +37,15 @@
     },
     {
         "name": "@(PLUS) Source 3D",
-        "prompt": "source_3d"
+        "prompt": "@source_3d"
     },
     {
         "name": "@(PLUS) Source Cartoon",
-        "prompt": "source_cartoon"
+        "prompt": "@source_cartoon"
     },
     {
         "name": "@(PLUS) Source Anime",
-        "prompt": "source_anime"
+        "prompt": "@source_anime"
     },
     {
         "name": "@(PLUS) Movement",
