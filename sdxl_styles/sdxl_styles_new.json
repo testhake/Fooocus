@@ -12,11 +12,19 @@
         "prompt": "@score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up"
     },
     {
-        "name": "@(PLUS) MatF+YunM",
+        "name": "@(PLUS) YoungF+YoungM",
+        "prompt": "@young female, young male, 1boy, 1girl"
+    },
+    {
+        "name": "@(PLUS) MatureF+MatureM",
+        "prompt": "@mature_female, mature_male, 1boy, 1girl"
+    },
+    {
+        "name": "@(PLUS) MatureF+YoungM",
         "prompt": "@mature_female, young male, age_difference, 1boy, 1girl"
     },
     {
-        "name": "@(PLUS) MatM+YunF",
+        "name": "@(PLUS) YoungF+MatureM",
         "prompt": "@mature_male, young female, age_difference, 1boy, 1girl"
     },
     {
