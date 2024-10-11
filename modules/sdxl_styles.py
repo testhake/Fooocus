@@ -61,9 +61,6 @@ def get_random_style(rng: Random) -> str:
 
 def apply_style(style, positive):
     p, n = styles[style]
-    if positive[0] == "@":
-        positive = positive[1:]
-        return p.replace(positive, '{prompt}').splitlines(), n.splitlines(), '{prompt}' in p
     return p.replace('{prompt}', positive).splitlines(), n.splitlines(), '{prompt}' in p
 
 
