@@ -25,11 +25,11 @@
     },
     {
         "name": "@(PLUS) Photorealistic",
-        "prompt": "@(photorealistic, realism, realistic)"
+        "prompt": "@(photorealistic, hyperrealistic, realistic)"
     },
     {
         "name": "@(PLUS) Realistic Painting",
-        "prompt": "@realistic, painting, soft shading"
+        "prompt": "@realistic art, painting, soft shading"
     },
     {
         "name": "@(PLUS) Lighting + Realistic Painting Style",
