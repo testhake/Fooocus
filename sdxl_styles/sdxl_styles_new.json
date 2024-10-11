@@ -4,6 +4,10 @@
         "negative_prompt": "score_4, score_5, score_6"
     },
     {
+        "name": "@(MAIN) PONY Negatives V2",
+        "negative_prompt": "score_6, score_5, score_4, worst quality, low quality, deformed body"
+    },
+    {
         "name": "@(MAIN) PONY Default",
         "prompt": "@score_9, score_8_up, score_7_up"
     },
