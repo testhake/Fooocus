@@ -105,6 +105,14 @@
         "prompt": "Sakimichan"
     },
     {
+        "name": "@(LORA) Fisticuffs Style",
+        "prompt": "fisticuffs club style"
+    },
+    {
+        "name": "@(LORA) Fellatrix Style",
+        "prompt": "fellatrix style"
+    },
+    {
         "name": "@(LORA) Vixon's Pony Styles -> gothic neon",
         "prompt": "g0thicPXL"
     }
