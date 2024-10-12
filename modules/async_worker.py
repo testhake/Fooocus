@@ -698,11 +698,11 @@ def worker():
                     p, n, style_has_placeholder = apply_style(s, positive=task_prompt)
                     if style_has_placeholder:
                         placeholder_replaced = True
-                    if p[0] == "@":
+                    if p and p[0] == "@":
                         positive_basic_workloads = p[1:] + positive_basic_workloads
                     else:
                         positive_basic_workloads = positive_basic_workloads + p
-                    if n[0] == "@":
+                    if n and n[0] == "@":
                         negative_basic_workloads = n[1:] + negative_basic_workloads
                     else:
                         negative_basic_workloads = negative_basic_workloads + n
