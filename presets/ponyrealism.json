@@ -2,7 +2,6 @@
     "default_model": "ponyRealism_v22MainVAE.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
-    "default_vae": "sdxl_vae.safetensors",
     "default_loras": [
         [
             true,
