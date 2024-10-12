@@ -20,6 +20,10 @@
         "prompt": "@score_9, score_8_up, score_7_up, (soft shading), realistic"
     },
     {
+        "name": "@(MAIN) PONY score_4_up + Realistic Soft Shading",
+        "prompt": "@score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up BREAK (soft shading), realistic"
+    },
+    {
         "name": "@(PLUS) Photorealistic",
         "prompt": "@(photorealistic, hyperrealistic, realistic)"
     },
