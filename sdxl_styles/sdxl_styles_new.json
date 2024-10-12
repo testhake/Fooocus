@@ -13,7 +13,7 @@
     },
     {
         "name": "@(MAIN) PONY score_4_up",
-        "prompt": "@score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up"
+        "prompt": "@score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up BREAK"
     },
     {
         "name": "@(MAIN) PONY Default + Realistic Soft Shading",
