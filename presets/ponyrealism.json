@@ -5,23 +5,23 @@
     "default_loras": [
         [
             true,
-            "None",
+            "dsney.safetensors",
             1.0
         ],
         [
             true,
-            "None",
-            1.0
+            "ExpressiveUseTag.safetensors",
+            0.65
         ],
         [
             true,
-            "None",
-            1.0
+            "vixonGothicNeonUseTag.safetensors",
+            0.45
         ],
         [
             true,
-            "None",
-            1.0
+            "incase.safetensors",
+            0.3
         ],
         [
             true,
