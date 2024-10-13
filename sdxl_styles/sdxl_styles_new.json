@@ -121,6 +121,10 @@
         "prompt": "ruru-raida style"
     },
     {
+        "name": "@(LORA) CALM Style",
+        "prompt": "CALM"
+    },
+    {
         "name": "@(LORA) Vixon's Pony Styles -> gothic neon",
         "prompt": "g0thicPXL"
     }
