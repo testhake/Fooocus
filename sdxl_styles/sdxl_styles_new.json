@@ -1,13 +1,5 @@
 [
     {
-        "name": "(MAIN) PONY Negative Default",
-        "negative_prompt": "score_4, score_5, score_6, {prompt}"
-    },
-    {
-        "name": "(MAIN) PONY Negatives V2",
-        "negative_prompt": "score_6, score_5, score_4, worst quality, low quality, deformed body"
-    },
-    {
         "name": "(MAIN) PONY Default",
         "prompt": "score_9, score_8_up, score_7_up, {prompt}"
     },
@@ -16,12 +8,12 @@
         "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up BREAK {prompt}"
     },
     {
-        "name": "(MAIN) PONY Default + Realistic Soft Shading",
-        "prompt": "score_9, score_8_up, score_7_up, (soft shading), realistic, {prompt}"
+        "name": "(MAIN) PONY score_4_up + Masterpiece",
+        "prompt": "masterpiece, best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, {prompt}"
     },
     {
-        "name": "(MAIN) PONY score_4_up + Realistic Soft Shading",
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up BREAK (soft shading), realistic, {prompt}"
+        "name": "(MAIN) PONY Negative Default",
+        "negative_prompt": "score_6, score_5, score_4"
     },
     {
         "name": "(PLUS) Photorealistic",
@@ -82,7 +74,7 @@
     {
         "name": "(CHECKPOINT) CyberRealistic",
         "prompt": "score_9, score_8_up, score_7_up, {prompt}",
-        "negative_prompt": "@score_6, score_5, score_4, source_pony, source_anime, source_furry, source_cartoon, worst quality, low quality"
+        "negative_prompt": "score_6, score_5, score_4, source_pony, source_anime, source_furry, source_cartoon, worst quality, low quality"
     },
     {
         "name": "(LORA) ExpressiveH",
