@@ -1,131 +1,131 @@
 [
     {
-        "name": "@(MAIN) PONY Negative Default",
+        "name": "(MAIN) PONY Negative Default",
         "negative_prompt": "score_4, score_5, score_6, {prompt}"
     },
     {
-        "name": "@(MAIN) PONY Negatives V2",
+        "name": "(MAIN) PONY Negatives V2",
         "negative_prompt": "score_6, score_5, score_4, worst quality, low quality, deformed body"
     },
     {
-        "name": "@(MAIN) PONY Default",
+        "name": "(MAIN) PONY Default",
         "prompt": "score_9, score_8_up, score_7_up, {prompt}"
     },
     {
-        "name": "@(MAIN) PONY score_4_up",
+        "name": "(MAIN) PONY score_4_up",
         "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up BREAK {prompt}"
     },
     {
-        "name": "@(MAIN) PONY Default + Realistic Soft Shading",
+        "name": "(MAIN) PONY Default + Realistic Soft Shading",
         "prompt": "score_9, score_8_up, score_7_up, (soft shading), realistic, {prompt}"
     },
     {
-        "name": "@(MAIN) PONY score_4_up + Realistic Soft Shading",
+        "name": "(MAIN) PONY score_4_up + Realistic Soft Shading",
         "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up BREAK (soft shading), realistic, {prompt}"
     },
     {
-        "name": "@(PLUS) Photorealistic",
+        "name": "(PLUS) Photorealistic",
         "prompt": "(photorealistic, hyperrealistic, realistic)"
     },
     {
-        "name": "@(PLUS) Realistic Painting",
+        "name": "(PLUS) Realistic Painting",
         "prompt": "realistic art, painting, soft shading"
     },
     {
-        "name": "@(PLUS) Lighting + Realistic Painting Style",
+        "name": "(PLUS) Lighting + Realistic Painting Style",
         "prompt": "volumetric lighting, dynamic angle, cinematic lighting, realistic lighting, realistic shading, highly detailed, realistic painting style"
     },
     {
-        "name": "@(PLUS) Source Cartoon",
+        "name": "(PLUS) Source Cartoon",
         "prompt": "source_cartoon"
     },
     {
-        "name": "@(PLUS) Source Anime",
+        "name": "(PLUS) Source Anime",
         "prompt": "source_anime"
     },
     {
-        "name": "@(PLUS) Movement",
+        "name": "(PLUS) Movement",
         "prompt": "movement, depth of field, in motion, motion blur"
     },
     {
-        "name": "@(PLUS) Negative",
+        "name": "(PLUS) Negative",
         "negative_prompt": "worst quality, low quality"
     },
     {
-        "name": "@(PLUS) Negative+",
+        "name": "(PLUS) Negative+",
         "negative_prompt": "text, censored, deformed, bad hand, blurry, (watermark), weights, extra hands, extra dicks, transgender"
     },
     {
-        "name": "@(PLUS) Negative++",
+        "name": "(PLUS) Negative++",
         "negative_prompt": "(deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, poorly drawn, bad anatomy, wrong anatomy, extra limbs, missing limb, floating limbs, missing fingers, elongated hands, disconnected limbs, mutation, mutated, ugly, disgusting, blurry, blurry eyes"
     },
     {
-        "name": "@(CHECKPOINT) RealDream Human (negative)",
+        "name": "(CHECKPOINT) RealDream Human (negative)",
         "negative_prompt": "amputee, deformed body, long neck, extra fingers, bad body proportions, mutated hands, mutilated, mutation, ugly, fused fingers, malformed limbs, extra heads, disfigured"
     },
     {
-        "name": "@(CHECKPOINT) SmoothMix General 1",
+        "name": "(CHECKPOINT) SmoothMix General 1",
         "prompt": "beautiful aesthetic, very intricate, high quality details"
     },
     {
-        "name": "@(CHECKPOINT) SmoothMix General 2",
+        "name": "(CHECKPOINT) SmoothMix General 2",
         "prompt": "vibrant, highly detailed, award-winning, professional"
     },
     {
-        "name": "@(CHECKPOINT) SmoothMix Realism",
+        "name": "(CHECKPOINT) SmoothMix Realism",
         "prompt": "ultra realistic, masterpiece, high detailed skin"
     },
     {
-        "name": "@(CHECKPOINT) SmoothMix Anime",
+        "name": "(CHECKPOINT) SmoothMix Anime",
         "prompt": "anime artwork, anime style, studio anime"
     },
     {
-        "name": "@(CHECKPOINT) CyberRealistic",
+        "name": "(CHECKPOINT) CyberRealistic",
         "prompt": "score_9, score_8_up, score_7_up, {prompt}",
         "negative_prompt": "@score_6, score_5, score_4, source_pony, source_anime, source_furry, source_cartoon, worst quality, low quality"
     },
     {
-        "name": "@(LORA) ExpressiveH",
+        "name": "(LORA) ExpressiveH",
         "prompt": "Expressiveh"
     },
     {
-        "name": "@(LORA) Styles -> Oil Painting",
+        "name": "(LORA) Styles -> Oil Painting",
         "prompt": "traditional media, realistic"
     },
     {
-        "name": "@(LORA) Styles -> Photo",
+        "name": "(LORA) Styles -> Photo",
         "prompt": "RAW, photo, realistic"
     },
     {
-        "name": "@(LORA) Styles -> Digital Art",
+        "name": "(LORA) Styles -> Digital Art",
         "prompt": "digital art, realistic"
     },
     {
-        "name": "@(LORA) Some Styles -> NYK 0.1",
+        "name": "(LORA) Some Styles -> NYK 0.1",
         "prompt": "nyk"
     },
     {
-        "name": "@(LORA) Sakimichan Style",
+        "name": "(LORA) Sakimichan Style",
         "prompt": "Sakimichan"
     },
     {
-        "name": "@(LORA) Fisticuffs Style",
+        "name": "(LORA) Fisticuffs Style",
         "prompt": "fisticuffs club style"
     },
     {
-        "name": "@(LORA) Fellatrix Style",
+        "name": "(LORA) Fellatrix Style",
         "prompt": "fellatrix style"
     },
     {
-        "name": "@(LORA) Ruru-Raida Style",
+        "name": "(LORA) Ruru-Raida Style",
         "prompt": "ruru-raida style"
     },
     {
-        "name": "@(LORA) CALM Style",
+        "name": "(LORA) CALM Style",
         "prompt": "CALM"
     },
     {
-        "name": "@(LORA) Vixon's Pony Styles -> gothic neon",
+        "name": "(LORA) Vixon's Pony Styles -> gothic neon",
         "prompt": "g0thicPXL"
     }
 ]
