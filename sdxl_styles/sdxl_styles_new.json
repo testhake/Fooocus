@@ -4,16 +4,26 @@
         "prompt": "score_9, score_8_up, score_7_up, {prompt}"
     },
     {
-        "name": "(MAIN) PONY score_4_up",
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up BREAK {prompt}"
-    },
-    {
         "name": "(MAIN) PONY score_4_up + Masterpiece",
         "prompt": "masterpiece, best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, {prompt}"
     },
     {
         "name": "(MAIN) PONY Negative Default",
-        "negative_prompt": "score_6, score_5, score_4"
+        "negative_prompt": "score_4, score_5, score_6"
+    },
+    {
+        "name": "(MAIN-CHECKPOINT) PONY AUTISM score_4_up",
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, BREAK, {prompt}"
+    },
+    {
+        "name": "(MAIN-CHECKPOINT) CyberRealistic",
+        "prompt": "score_9, score_8_up, score_7_up, {prompt}",
+        "negative_prompt": "score_6, score_5, score_4, source_pony, source_anime, source_furry, source_cartoon, worst quality, low quality"
+    },
+    {
+        "name": "(MAIN-CHECKPOINT) Pony Realism",
+        "prompt": "score_9, score_8_up, score_7_up, BREAK, {prompt}",
+        "negative_prompt": "score_4, score_5, score_6"
     },
     {
         "name": "(PLUS) Photorealistic",
@@ -70,11 +80,6 @@
     {
         "name": "(CHECKPOINT) SmoothMix Anime",
         "prompt": "anime artwork, anime style, studio anime"
-    },
-    {
-        "name": "(CHECKPOINT) CyberRealistic",
-        "prompt": "score_9, score_8_up, score_7_up, {prompt}",
-        "negative_prompt": "score_6, score_5, score_4, source_pony, source_anime, source_furry, source_cartoon, worst quality, low quality"
     },
     {
         "name": "(LORA) ExpressiveH",
