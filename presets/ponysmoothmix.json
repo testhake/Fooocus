@@ -5,18 +5,18 @@
     "default_loras": [
         [
             true,
-            "None",
+            "vixonGothicNeonUseTag.safetensors",
             0.5
         ],
         [
             true,
-            "None",
-            1.0
+            "incase.safetensors",
+            0.2
         ],
         [
             true,
-            "None",
-            1.0
+            "ExpressiveUseTag.safetensors",
+            0.3
         ],
         [
             true,
