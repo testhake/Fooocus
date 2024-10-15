@@ -46,8 +46,7 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
-    "checkpoint_downloads": {
-    },
+    "checkpoint_downloads": {},
     "embeddings_downloads": {},
     "lora_downloads": {},
     "vae_downloads": {}
