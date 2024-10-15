@@ -86,19 +86,7 @@
         "prompt": "Expressiveh"
     },
     {
-        "name": "(LORA) Styles -> Oil Painting",
-        "prompt": "traditional media, realistic"
-    },
-    {
-        "name": "(LORA) Styles -> Photo",
-        "prompt": "RAW, photo, realistic"
-    },
-    {
-        "name": "(LORA) Styles -> Digital Art",
-        "prompt": "digital art, realistic"
-    },
-    {
-        "name": "(LORA) Some Styles -> NYK 0.1",
+        "name": "(LORA) SOMESTYLES -> NYK 0.1",
         "prompt": "nyk"
     },
     {
@@ -122,7 +110,7 @@
         "prompt": "CALM"
     },
     {
-        "name": "(LORA) Vixon's Pony Styles -> gothic neon",
+        "name": "(LORA) Vixon -> gothic neon",
         "prompt": "g0thicPXL"
     }
 ]
