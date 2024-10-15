@@ -41,7 +41,7 @@
         "(PLUS_CHECKPOINT) SmoothMix Recommended 1",
         "(PLUS_CHECKPOINT) SmoothMix Realism",
         "(LORA) ExpressiveH",
-        "(LORA) Vixon gothic neon",
+        "(LORA) Vixon gothic neon"
     ],
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
