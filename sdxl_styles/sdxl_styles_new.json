@@ -12,37 +12,37 @@
         "negative_prompt": "score_4, score_5, score_6"
     },
     {
-        "name": "(MAIN-CHECKPOINT) PONY AUTISM score_4_up",
+        "name": "(MAIN_CHECKPOINT) PONY AUTISM score_4_up",
         "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, BREAK, {prompt}"
     },
     {
-        "name": "(MAIN-CHECKPOINT) CyberRealistic",
+        "name": "(MAIN_CHECKPOINT) CyberRealistic",
         "prompt": "score_9, score_8_up, score_7_up, {prompt}",
         "negative_prompt": "score_6, score_5, score_4, source_pony, source_anime, source_furry, source_cartoon, worst quality, low quality"
     },
     {
-        "name": "(MAIN-CHECKPOINT) Pony Realism",
+        "name": "(MAIN_CHECKPOINT) Pony Realism",
         "prompt": "score_9, score_8_up, score_7_up, BREAK, {prompt}",
         "negative_prompt": "score_4, score_5, score_6"
     },
     {
-        "name": "(PLUS-CHECKPOINT) RealDream Human (negative)",
+        "name": "(PLUS_CHECKPOINT) RealDream Human (negative)",
         "negative_prompt": "amputee, deformed body, long neck, extra fingers, bad body proportions, mutated hands, mutilated, mutation, ugly, fused fingers, malformed limbs, extra heads, disfigured"
     },
     {
-        "name": "(PLUS-CHECKPOINT) SmoothMix Recommended 1",
+        "name": "(PLUS_CHECKPOINT) SmoothMix Recommended 1",
         "prompt": "beautiful aesthetic, very intricate, high quality details"
     },
     {
-        "name": "(PLUS-CHECKPOINT) SmoothMix Recommended 2",
+        "name": "(PLUS_CHECKPOINT) SmoothMix Recommended 2",
         "prompt": "vibrant, highly detailed, award-winning, professional"
     },
     {
-        "name": "(PLUS-CHECKPOINT) SmoothMix Realism",
+        "name": "(PLUS_CHECKPOINT) SmoothMix Realism",
         "prompt": "ultra realistic, masterpiece, high detailed skin"
     },
     {
-        "name": "(PLUS-CHECKPOINT) SmoothMix Anime",
+        "name": "(PLUS_CHECKPOINT) SmoothMix Anime",
         "prompt": "anime artwork, anime style, studio anime"
     },
     {
@@ -74,11 +74,11 @@
         "negative_prompt": "worst quality, low quality"
     },
     {
-        "name": "(PLUS) Negative+",
+        "name": "(PLUS) Negative2",
         "negative_prompt": "text, censored, deformed, bad hand, blurry, (watermark), weights, extra hands, extra dicks, transgender"
     },
     {
-        "name": "(PLUS) Negative++",
+        "name": "(PLUS) Negative3",
         "negative_prompt": "(deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, poorly drawn, bad anatomy, wrong anatomy, extra limbs, missing limb, floating limbs, missing fingers, elongated hands, disconnected limbs, mutation, mutated, ugly, disgusting, blurry, blurry eyes"
     },
     {
@@ -86,7 +86,7 @@
         "prompt": "Expressiveh"
     },
     {
-        "name": "(LORA) SOMESTYLES -> NYK 0.1",
+        "name": "(LORA) SOMESTYLES NYK 0.1",
         "prompt": "nyk"
     },
     {
@@ -102,7 +102,7 @@
         "prompt": "fellatrix style"
     },
     {
-        "name": "(LORA) Ruru-Raida Style",
+        "name": "(LORA) RuruRaida Style",
         "prompt": "ruru-raida style"
     },
     {
@@ -110,7 +110,7 @@
         "prompt": "CALM"
     },
     {
-        "name": "(LORA) Vixon -> gothic neon",
+        "name": "(LORA) Vixon gothic neon",
         "prompt": "g0thicPXL"
     }
 ]
