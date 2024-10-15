@@ -1,0 +1,34 @@
+[
+  {
+        "name": "(LORA) ExpressiveH",
+        "prompt": "Expressiveh"
+    },
+    {
+        "name": "(LORA) SOMESTYLES NYK 0.1",
+        "prompt": "nyk"
+    },
+    {
+        "name": "(LORA) Sakimichan Style",
+        "prompt": "Sakimichan"
+    },
+    {
+        "name": "(LORA) Fisticuffs Style",
+        "prompt": "fisticuffs club style"
+    },
+    {
+        "name": "(LORA) Fellatrix Style",
+        "prompt": "fellatrix style"
+    },
+    {
+        "name": "(LORA) RuruRaida Style",
+        "prompt": "ruru-raida style"
+    },
+    {
+        "name": "(LORA) CALM Style",
+        "prompt": "CALM"
+    },
+    {
+        "name": "(LORA) Vixon gothic neon",
+        "prompt": "g0thicPXL"
+    }
+]
