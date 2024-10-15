@@ -26,6 +26,26 @@
         "negative_prompt": "score_4, score_5, score_6"
     },
     {
+        "name": "(PLUS-CHECKPOINT) RealDream Human (negative)",
+        "negative_prompt": "amputee, deformed body, long neck, extra fingers, bad body proportions, mutated hands, mutilated, mutation, ugly, fused fingers, malformed limbs, extra heads, disfigured"
+    },
+    {
+        "name": "(PLUS-CHECKPOINT) SmoothMix Recommended 1",
+        "prompt": "beautiful aesthetic, very intricate, high quality details"
+    },
+    {
+        "name": "(PLUS-CHECKPOINT) SmoothMix Recommended 2",
+        "prompt": "vibrant, highly detailed, award-winning, professional"
+    },
+    {
+        "name": "(PLUS-CHECKPOINT) SmoothMix Realism",
+        "prompt": "ultra realistic, masterpiece, high detailed skin"
+    },
+    {
+        "name": "(PLUS-CHECKPOINT) SmoothMix Anime",
+        "prompt": "anime artwork, anime style, studio anime"
+    },
+    {
         "name": "(PLUS) Photorealistic",
         "prompt": "(photorealistic, hyperrealistic, realistic)"
     },
@@ -60,26 +80,6 @@
     {
         "name": "(PLUS) Negative++",
         "negative_prompt": "(deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, poorly drawn, bad anatomy, wrong anatomy, extra limbs, missing limb, floating limbs, missing fingers, elongated hands, disconnected limbs, mutation, mutated, ugly, disgusting, blurry, blurry eyes"
-    },
-    {
-        "name": "(CHECKPOINT) RealDream Human (negative)",
-        "negative_prompt": "amputee, deformed body, long neck, extra fingers, bad body proportions, mutated hands, mutilated, mutation, ugly, fused fingers, malformed limbs, extra heads, disfigured"
-    },
-    {
-        "name": "(CHECKPOINT) SmoothMix General 1",
-        "prompt": "beautiful aesthetic, very intricate, high quality details"
-    },
-    {
-        "name": "(CHECKPOINT) SmoothMix General 2",
-        "prompt": "vibrant, highly detailed, award-winning, professional"
-    },
-    {
-        "name": "(CHECKPOINT) SmoothMix Realism",
-        "prompt": "ultra realistic, masterpiece, high detailed skin"
-    },
-    {
-        "name": "(CHECKPOINT) SmoothMix Anime",
-        "prompt": "anime artwork, anime style, studio anime"
     },
     {
         "name": "(LORA) ExpressiveH",
