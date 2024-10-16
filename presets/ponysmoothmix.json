@@ -37,11 +37,11 @@
     "default_prompt": "",
     "default_prompt_negative": "",
     "default_styles": [
-        "(MAIN) PONY Default",
-        "(PLUS_CHECKPOINT) SmoothMix Recommended 1",
-        "(PLUS_CHECKPOINT) SmoothMix Realism",
-        "(LORA) ExpressiveH",
-        "(LORA) Vixon gothic neon"
+        "(main) Pony Default",
+        "(plus_checkpoint) Smoothmix Recommended 1",
+        "(plus_checkpoint) Smoothmix Realism",
+        "(lora) Expressiveh",
+        "(lora) Vixon Gothic Neon"
     ],
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
