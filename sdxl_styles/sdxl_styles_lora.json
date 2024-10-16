@@ -1,34 +1,34 @@
 [
-  {
-        "name": "(LORA) ExpressiveH",
+    {
+        "name": "(lora) Expressiveh",
         "prompt": "Expressiveh"
     },
     {
-        "name": "(LORA) SOMESTYLES NYK 0.1",
+        "name": "(lora) Somestyles Nyk 0.1",
         "prompt": "nyk"
     },
     {
-        "name": "(LORA) Sakimichan Style",
+        "name": "(lora) Sakimichan Style",
         "prompt": "Sakimichan"
     },
     {
-        "name": "(LORA) Fisticuffs Style",
+        "name": "(lora) Fisticuffs Style",
         "prompt": "fisticuffs club style"
     },
     {
-        "name": "(LORA) Fellatrix Style",
+        "name": "(lora) Fellatrix Style",
         "prompt": "fellatrix style"
     },
     {
-        "name": "(LORA) RuruRaida Style",
+        "name": "(lora) Rururaida Style",
         "prompt": "ruru-raida style"
     },
     {
-        "name": "(LORA) CALM Style",
+        "name": "(lora) Calm Style",
         "prompt": "CALM"
     },
     {
-        "name": "(LORA) Vixon gothic neon",
+        "name": "(lora) Vixon Gothic Neon",
         "prompt": "g0thicPXL"
     }
 ]
